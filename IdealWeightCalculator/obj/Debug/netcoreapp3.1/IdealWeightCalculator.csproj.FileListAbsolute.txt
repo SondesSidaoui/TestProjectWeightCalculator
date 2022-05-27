@@ -1,0 +1,13 @@
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.exe
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.deps.json
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.runtimeconfig.json
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.runtimeconfig.dev.json
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.dll
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.pdb
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.AssemblyInfoInputs.cache
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.AssemblyInfo.cs
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.dll
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.pdb
+C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.genruntimeconfig.cache
