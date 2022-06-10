@@ -5738,11 +5738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ssidaoui\\source\\repos\\IdealWeightCalculator\\IdealWeightCalculator.Tests\\IdealWeightCalculator.Tests.csproj",
+      "projectUniqueName": "E:\\Nouveau dossier (2)\\TestProjectWeightCalculator\\IdealWeightCalculator.Tests\\IdealWeightCalculator.Tests.csproj",
       "projectName": "IdealWeightCalculator.Tests",
-      "projectPath": "C:\\Users\\ssidaoui\\source\\repos\\IdealWeightCalculator\\IdealWeightCalculator.Tests\\IdealWeightCalculator.Tests.csproj",
+      "projectPath": "E:\\Nouveau dossier (2)\\TestProjectWeightCalculator\\IdealWeightCalculator.Tests\\IdealWeightCalculator.Tests.csproj",
       "packagesPath": "C:\\Users\\ssidaoui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ssidaoui\\source\\repos\\IdealWeightCalculator\\IdealWeightCalculator.Tests\\obj\\",
+      "outputPath": "E:\\Nouveau dossier (2)\\TestProjectWeightCalculator\\IdealWeightCalculator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -5764,8 +5764,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ssidaoui\\source\\repos\\IdealWeightCalculator\\IdealWeightCalculator\\IdealWeightCalculator.csproj": {
-              "projectPath": "C:\\Users\\ssidaoui\\source\\repos\\IdealWeightCalculator\\IdealWeightCalculator\\IdealWeightCalculator.csproj"
+            "E:\\Nouveau dossier (2)\\TestProjectWeightCalculator\\IdealWeightCalculator\\IdealWeightCalculator.csproj": {
+              "projectPath": "E:\\Nouveau dossier (2)\\TestProjectWeightCalculator\\IdealWeightCalculator\\IdealWeightCalculator.csproj"
             }
           }
         }
