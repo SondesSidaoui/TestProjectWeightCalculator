@@ -11,3 +11,17 @@ C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\D
 C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.dll
 C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.pdb
 C:\Users\ssidaoui\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.genruntimeconfig.cache
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.exe
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.deps.json
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.runtimeconfig.json
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.runtimeconfig.dev.json
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.dll
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\bin\Debug\netcoreapp3.1\IdealWeightCalculator.pdb
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.csproj.AssemblyReference.cache
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.AssemblyInfoInputs.cache
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.AssemblyInfo.cs
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.csproj.CoreCompileInputs.cache
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.dll
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.pdb
+E:\Nouveau dossier (2)\test\TestProjectWeightCalculator\IdealWeightCalculator\obj\Debug\netcoreapp3.1\IdealWeightCalculator.genruntimeconfig.cache

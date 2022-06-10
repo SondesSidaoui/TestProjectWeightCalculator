@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b2KNMRk+/BtGLTvplNYzVPgRkpJ4ASTGZEybCc/CXMIYaByKz9v3hUuYDDx0czaDgvewP3M7m4gE8LeH5AWnlQ==",
+  "dgSpecHash": "ZMpeDx808qHxqO5h77cxP1Dk4gxH5k+tsRw4Kf0jMMgfbs3ua/L1GRvMiOYFYvtsI4qF93nZUfy8QDtHOHjqFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ssidaoui\\source\\repos\\IdealWeightCalculator\\IdealWeightCalculator.Tests\\IdealWeightCalculator.Tests.csproj",
+  "projectFilePath": "E:\\Nouveau dossier (2)\\test\\TestProjectWeightCalculator\\IdealWeightCalculator.Tests\\IdealWeightCalculator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ssidaoui\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\ssidaoui\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
